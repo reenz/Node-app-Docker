@@ -1,0 +1,20 @@
+{
+  "name": "Node-app-Docker",
+  "version": "1.0.0",
+  "description": "I am building this to learn how to get Node.js application into a docker container.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reenz/Node-app-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reenz/Node-app-Docker/issues"
+  },
+  "homepage": "https://github.com/reenz/Node-app-Docker#readme"
+}
