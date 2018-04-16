@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/reenz/Node-app-Docker/issues"
   },
-  "homepage": "https://github.com/reenz/Node-app-Docker#readme"
+  "homepage": "https://github.com/reenz/Node-app-Docker#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
