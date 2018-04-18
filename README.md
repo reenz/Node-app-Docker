@@ -1,5 +1,8 @@
 # Dockerizing a Node.js web app
 
+[![Build Status](https://travis-ci.org/reenz/Node-app-Docker.svg?branch=master)](https://travis-ci.org/reenz/Node-app-Docker)
+
+
 I am building this to learn how to get Node.js application into a docker container.
 
 ### Docker image
