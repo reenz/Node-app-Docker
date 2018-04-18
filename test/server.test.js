@@ -14,4 +14,14 @@ describe("Index page", () => {
       done();
     });
   });
+
+  it("should respond with 'Hello World", (done) => {
+    chai.request(server)
+    .get("/")
+    .end((err, res) => {
+      should.not.exist(err);
+      res.text.should.equal("Hello World");
+      done();
+    });
+  });
 });
