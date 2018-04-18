@@ -4,7 +4,7 @@
   "description": "I am building this to learn how to get Node.js application into a docker container.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc mocha --exit"
   },
   "repository": {
     "type": "git",
